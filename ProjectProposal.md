@@ -41,9 +41,9 @@ And finally using PYNQ Framework Overlay will be tested.
 1. Defining Dijkstra Algorithm
 2. Creating Overlay
 3. PYNQ Framework designing with following points :-
-	3.1 Displaying shortest distance between all points
-	3.2 Displaying path of each calculated distance
-4. Testing
+	3.1 Displaying shortest distance between two points
+	3.2 Displaying path of shortest distance calculated
+4. Caomparing CPU and FPGA results.
 
 ### Estimated Timeline
 
