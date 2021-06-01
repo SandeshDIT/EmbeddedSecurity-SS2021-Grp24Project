@@ -43,14 +43,14 @@ And finally using PYNQ Framework Overlay will be tested.
 3. PYNQ Framework designing with following points :-
 	3.1 Displaying shortest distance between two points
 	3.2 Displaying path of shortest distance calculated
-4. Caomparing CPU and FPGA results.
+4. Comparing CPU and FPGA results.
 
 ### Estimated Timeline
 
 **(Core)**
 
 * Task 1 (2 hours)
-* Task 2 (4-5 hours)
+* Task 2 (7-9 hours)
 * Task 3 (3-4 hours)
 * Task 4 (2 hours)
 
